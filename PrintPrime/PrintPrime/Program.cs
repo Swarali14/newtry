@@ -27,7 +27,7 @@ namespace PrintPrime
                     }
                 }
                 if (flag == 1)
-                    Console.WriteLine(i);
+                    Console.WriteLine(i+" Suyash Kala");
             }
         }
         
@@ -43,7 +43,7 @@ namespace PrintPrime
             b = int.Parse(Console.ReadLine());
 
             new Program().findPrime(a, b);
-
+            Console.ReadKey();
     }
     }
 }
