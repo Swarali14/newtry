@@ -1,0 +1,7 @@
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\bin\Debug\PrintPrime.exe.config
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\bin\Debug\PrintPrime.exe
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\bin\Debug\PrintPrime.pdb
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.csprojAssemblyReference.cache
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.csproj.CoreCompileInputs.cache
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.exe
+G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.pdb
