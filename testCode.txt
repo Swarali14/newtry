@@ -9,3 +9,7 @@ Output : 7
 min: 12
 max : 20
 Output: 13,17,19
+
+min: 56
+max : 65
+Output: 57,59,61
