@@ -5,3 +5,10 @@ G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\
 G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.csproj.CoreCompileInputs.cache
 G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.exe
 G:\Training\Web Technology\DevOps(GitHub)\day2q\PrintPrime\PrintPrime\obj\Debug\PrintPrime.pdb
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\bin\Debug\PrintPrime.exe.config
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\bin\Debug\PrintPrime.exe
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\bin\Debug\PrintPrime.pdb
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\obj\Debug\PrintPrime.csprojAssemblyReference.cache
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\obj\Debug\PrintPrime.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\obj\Debug\PrintPrime.exe
+C:\Users\user\Desktop\My Trainig Work\Swarali Prime Project\Day2Question\PrintPrime\PrintPrime\obj\Debug\PrintPrime.pdb
